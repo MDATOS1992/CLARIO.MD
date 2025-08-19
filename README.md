@@ -51,3 +51,4 @@ Que los datos y la verdad sean accesibles para todas las personas, en cualquier 
 ## 📫 Contacto
 Pronto habilitaremos una página de contacto para interesados en informes y dashboards.  
 Mientras tanto, podés conectar con nosotros en **LinkedIn**.  
+
