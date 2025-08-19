@@ -1,3 +1,5 @@
+![Clario Banner](./clario.png)
+
 # Clario
 
 ## 🌐 Proyecto
