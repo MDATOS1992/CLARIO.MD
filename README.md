@@ -1,5 +1,8 @@
 ![Clario Banner](./clario.png)
 
+![Status](https://img.shields.io/badge/status-en%20desarrollo-yellow)
+![Made with](https://img.shields.io/badge/made%20with-Python-blue)
+
 # Clario
 
 ## 🌐 Proyecto
