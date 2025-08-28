@@ -1,0 +1,41 @@
+{
+  "fecha_generacion": "28/08/2025 00:14:45",
+  "resumen_ejecutivo": {
+    "total_tendencias": 3,
+    "periodo_analisis": "01/01/2024 - 30/01/2024",
+    "fuentes_analizadas": [
+      "Instagram",
+      "Twitter"
+    ]
+  },
+  "analisis_crecimiento": {
+    "Streetwear": {
+      "crecimiento_absoluto": "-15",
+      "crecimiento_porcentual": -17.045454545454543,
+      "tendencia": "decreciente"
+    },
+    "Vintage": {
+      "crecimiento_absoluto": "24",
+      "crecimiento_porcentual": 34.285714285714285,
+      "tendencia": "creciente"
+    },
+    "Minimalista": {
+      "crecimiento_absoluto": "7",
+      "crecimiento_porcentual": 9.859154929577464,
+      "tendencia": "creciente"
+    }
+  },
+  "analisis_estacionalidad": {
+    "mes_mas_popular": "1",
+    "mes_menos_popular": "1",
+    "popularidad_por_mes": {
+      "1": 75.6
+    }
+  },
+  "insights": [
+    "🏆 La tendencia más popular es 'Streetwear' con una popularidad de 94",
+    "🚀 'Vintage' es una tendencia emergente que está creciendo rápidamente",
+    "📱 'Twitter' es la fuente de datos más confiable",
+    "📊 Las tendencias tienen popularidad moderadamente variable"
+  ]
+}
